@@ -1,6 +1,6 @@
 ---
-order: 3
-title: Config Files Reference
+order: 4
+title: Config Files
 ---
 
 # garden.yml reference
